@@ -1,6 +1,6 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Alastor Collins
+description: Business Analyst
+site_title: 'Business Analytics Portfolio - Alastor Collins'
 
 # Build settings
 markdown: kramdown
@@ -9,7 +9,7 @@ exclude: [vendor/ruby]
 # Personalization
 github_username: abhn
 blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
+email: mr.al.collins@icloud.com
 keybase_username: abhn
 twitter_username: abhn_
 reddit_username: abhn
